@@ -1,0 +1,16 @@
+# Site settings
+name: hackberry
+email: email
+url: url
+description: "A blog and a portfolio"
+author: "aysenur"
+title: "Hackberry's Space"
+permalink: pretty
+baseurl: /
+
+# social
+linkedin:
+  username: aysenurkaraaslan
+
+twitter:
+  username: aysenurkaraslan
